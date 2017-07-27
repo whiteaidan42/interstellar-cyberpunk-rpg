@@ -1,0 +1,530 @@
+Title         : Interstellar Cyberpunk RPG Alpha (working title)
+Author        : Revision: 30 September 2016
+Logo          : False
+
+[TITLE]
+[TOC]
+
+# Creating a starting-level character
+This is a step-by-step guide that should help you make a character easily and without hassle. Follow each step below.
+
+##Step One: Determine KOMERA scores
+KOMERA is a set of attributes that define innate abilities of a character. They are: 
+
+
+**K**nowledge  
+**O**bservation  
+**M**uscle  
+**E**ndurance  
+**R**eflex  
+**A**llure  
+
+Choose one of the arrays below. Assign each score to one of the attributes above. 
+
+3 2 1 1 0 0  
+2 2 2 1 1 0  
+3 1 1 1 1 1  
+
+##Step Two: Determine Pain 
+Once you have determined your Endurance, you can find your Pain for each location. Record these totals on your character sheet:   
+
+* Head:  1 + Endurance
+* Torso: 9 + Endurance
+* Arms:  3 + Endurance
+* Legs:  5 + Endurance  
+
+See the section titled “[Death and Injury][#sec-death-and-injury]” below for an explanation of what happens when you take damage. 
+
+##Step Three: Choose a Face 
+Choose a Face from the section titled “[Faces][#sec-faces]” below. Record all abilities listed for that face.
+
+##Step Four: Choose an Occupation 
+Choose an Occupation from the section titled “[Occupations][#sec-occupations]” below. Record all skills listed.
+
+##Step Five: Determine Skill Ranks 
+Select five skills from your class’s list. They start with 3 ranks. Every other skill begins play with 1 rank. 
+
+##Step Six: Choose Equipment
+For now, take a weapon appropriate for your occupation from the section "[Equipment][#sec-equipment]," below, your choice of Light Combat Armor (Damage Reduction 7), Light Organic Armor (Ablative armor 3 head and arms, 5 legs, 9 torso) or a basic DFG (15 damage before it pops, takes 1 round to recharge), Dermal Regen Spray (stops bleeding, recovers d6 pain), a ten-foot telescoping Versi-Pole, and fifty feet of hempen rope. 
+____
+
+#Faces 
+
+##Bahndi
+**Precognition**: At the beginning of a session, roll a d12. If the result is 7 or greater, the Bahndi receives a session re-roll that may be spent at any time.
+
+**Psychosomatic Reaction**: If touched for a full turn, even through gloves, a Bahndi must make an Endurance check, DC 9. If failed, the Bahndi will experience some traumatic event happening in the past or future to the person they are in contact with. For the duration of this (about 5 minutes), they go unconscious. 
+
+
+##Cy’ar
+**Psychic Aura**: Cy’ar are protected by a psychic barrier that will block 10 points of damage before it pops, taking a day to re-materialise. It also protects them from some psychic attacks.
+
+**Levitation**: Cy’ar may levitate a few inches off the ground at will, and gain +10 movement speed when doing so.
+
+##Dinneh
+**Shapeshifting**: As a physical manifestation of light, a Dinneh can change a number of features at will. They can assume the shape of another race, change their physical features to disguise themselves as specific people. They cannot disguise themselves as beings larger than a human, however. Disguises as Modan or Kha'nari are likely to be of children of those races, and Dinneh cannot pass as Zrobular at all. 
+
+##Gnosh
+**Body of Art**: A Gnosh’s body is adorned with all sorts of bright and moving tattoos, all of which have the potential to distract. In addition to always having several conversation pieces (+2 to social rolls that can convincingly make use of them), a Gnosh receives a +2 to Reflex tests to avoid being hit, but has disadvantage on Stealth checks unless the Gnosh is covered from head to toe. 
+
+
+##Hogri
+**Phasing**: When a Hogri is attacked, they have a 4 in 12 chance of phasing into a latent energy form, making them invulnerable to physical attacks. However, while in this form, they are extra vulnerable to psychic attacks and attacks using energy weapons such as beam or laser weaponry, taking double damage. This state lasts until the Hogri's next turn or the end of the current combat round, which ever happens last. A Hogri may suppress this ability at-will. 
+
+##Human        
+**Will to Live**:  After receiving heavy trauma, instead of immediately going into shock or dying, a human can continue to take actions. They still bleed out one endurance per round unless helped. At the end of that turn, the human must make a DC 9 Allure check. On a failure, the character goes into shock or dies as normal. On a success, the human can act the next round. This can continue until they get medical help that stops the bleeding, they fail and go into shock, or they bleed out and die (when their Endurance hits -1). Note, that if heavy trauma is received to the head or torso, no amount of medical help will prevent the human from dying. 
+
+**Origin**: In addition to Will to Live, a Human chooses a place of origin. They gain a trait from that origin. 
+
+###Star Republic 
+**Jacked in and Good to Go**: At character creation, you may replace one of your skills with the skill Datajack. 
+
+###Confederation of Man
+**Embedded Computer**: Soon after birth, citizens of the Confederation of Man are fitted with a computer embedded into their spine. This computer has access to the internet, and is capable of doing simple tasks like managing appointments, sending e-mail, [redacted]{ background-color=black }, playing entertainment, accessing the Guide, and more. The AI is not [redacted]{ background-color=black } and will never [redactedredactedredactedredacted]{ background-color=black }. 
+
+##Mekko
+**Aquatic**: Mekko receive a temporary bonus skill rank to all physical skills while in the water. 
+
+**Athletic**: At character creation, you may replace one of your starting skill with the skill Athletics.  
+
+##Nurjnought
+
+**Thought-Provoking**: A Nurjnought is usually so gifted with jokes and witticisms that a Nurjnought telling one can enthrall a person. Make an opposed Allure test against the target. On a success, the target is distracted for a minute (maybe more), losing sight of things around them. A loud or physical distraction, like a gunshot or being shaken, will end the effect. 
+
+##Modan
+
+
+**Thick Hide**: Modan have an armor Damage Reduction rating equal to their Endurance score, in addition to whatever armor they may be wearing.
+
+
+##Oda
+
+
+**Blinking**: An Oda can jump short distances through space (maximum 100 feet) or time (one round). To blink, an Oda must make an Endurance test DC 9. If the total is underneath 9, the Oda still makes the jump, however, they receive pain equal to the difference between the roll and the target number to all locations. If the Oda rolls a natural one on this roll, roll again. If the natural result is below 7, the Oda vanishes into the void, never to be seen again. 
+
+##Ren
+**Whiskers**: Twice per combat, you may subtract 1 from the natural result of any die roll.  
+
+
+**Traditional Weapons**: At character creation, you may replace any weapon skill with the skill "Swords."
+
+
+____
+
+
+
+
+#Occupations
+
+
+##Agent
+Any Weapon  
+Acting  
+Hacking *or* Operate Communications Equipment  
+Concealment  
+Sleight of Hand  
+Disguise  
+Deter  
+Provoke  
+Resist Interrogation *or* Sexual Performance  
+Interrogation *or* Seduction  
+
+
+##Combat Technician  
+Jury Rig  
+Weapon Engineering/Repair  
+Armor Engineering/Repair  
+Demolitions  
+Ship Gunnery  
+Operate Communications Equipment   
+General Engineering/Repair  
+Pistols *or* Swords  
+Drive  
+Expert Knowledge: Chemistry  
+
+
+##Covert Operative
+Any Weapons Skill  
+Demolitions  
+Hacking  
+Concealment  
+Covert Photography/Cinematography  
+Deception  
+Detect Deception  
+Bypass Locks  
+Stealth  
+Streetwise  
+
+##Driver
+Computer Operated Weapons  
+Diplomacy  
+Driving  
+Datajack  
+General Engineering/Repair  
+Jury Rig  
+Operate Communications Equipment  
+Pistol  
+Streetwise  
+Bargaining  
+
+##Medic
+Administer Medicine  
+Provoke  
+Deception   
+Diplomacy  
+Deter  
+First Aid  
+Pistol  
+Tactics  
+Cybernetic Medicine  
+Psychotherapy  
+
+
+##Mercenary
+Alertness  
+Athletics  
+Bargaining  
+Concealment  
+Heavy Weapons  
+Pistols  
+Rifles  
+Ship Gunnery  
+Streetwise  
+Tactics  
+
+
+
+
+##Skirmisher
+Athletics  
+Alertness  
+Microgravity Combat  
+Deter  
+First Aid  
+Provoke  
+Shields  
+Streetwise  
+Any Melee Weapon Skill  
+Unarmed  
+
+
+
+
+##Starship Pilot
+Computer Operated Weapons   
+Hacking   
+Detect Deception   
+Engineering/Repair   
+Interstellar Navigation   
+
+Operate Communications Equipment   
+Pistols *or* Swords   
+Ship Gunnery   
+Starship Piloting   
+
+
+
+
+##Starship Technician 
+Pistols *or* Swords   
+Computer Operated Weapons  
+Hacking   
+Cybernetics Engineering/Repair   
+General Engineering/Repair     
+FTL Engine Engineering/Repair  
+Interstellar Navigation   
+Jury Rig   
+Operate Communications Equipment   
+Starship Piloting  
+
+
+##Droider
+Drone/Droid Engineering/Repair  
+Computer Operated Weapons  
+Computer Hardware Engineering/Repair  
+Computers  
+Datajack  
+Salvage  
+Bargaining  
+General Engineering/Repair  
+Pistols  
+Jury Rig  
+
+
+##Grifter
+Alertness  
+Bypass Locks  
+Concealment or Gambling
+Larceny   
+Deter  
+Provoke  
+Pistols  
+Sleight of Hand  
+Streetwise  
+
+
+##Create Your Own
+
+
+Select eight skills of your choice.
+____
+
+#Character Advancement
+
+
+##Increasing Skills and Attributes
+
+
+To increase a skill, spend CAP equal to next rank 
+
+
+To increase an Attribute, spend CAP equal to next rating x 10
+
+
+##Gaining Additional Skills
+
+
+To purchase a skill, spend 5 CAP.
+
+Alternatively, a character that rolls a natural 12 on an untrained skill check may forgo a critical bonus and instead receive the skill for free. 
+
+##Assets
+
+###Damn Tough
+*10 CAP, Requires Endurance of 2*
+
+Add 3 Pain to each location. 
+
+###Heavy Hitter
+*10 CAP, Requires Muscle of 3*
+
+When making an unarmed attack, instead of adding your Muscle modifier to damage, add twice your muscle to damage instead. 
+
+###Lucky
+*5 Cap, Requires Allure of 2*
+
+Gain a per session reroll. 
+
+###Quick-Draw
+*5 CAP, Requires Reflex of 2*
+
+Choose a specific weapon such as Beam Pistol. Drawing this weapon or two of them to dual-wield is a bonus action. 
+
+###Quick-Reload
+*10 CAP, Requires Reflex of 4*
+
+You may reload a weapon as a bonus action. 
+
+###Run and Gun
+*10 CAP, Requires Reflex of 5*
+
+While making a double movement, you may make an attack as a bonus action. 
+
+###Sniper
+*15 CAP, Requires Observation of 4*
+
+You are trained to snipe, using controlled breathing and some math to place bullets more accurately and from distance. You may spend a major action to aim at a target. If you do so, on your next turn you may reduce the called shot penalty by X (I'll figure out this number later -A).
+
+###Suave
+*15 CAP, Requires Allure of 6*
+
+Anytime you fail a seduction or deception check, you may re-roll it. You must take the new result. 
+
+###Weapon Master
+*15 CAP, Requires 12 ranks in a weapon skill*
+
+Choose a specific weapon that you can use with a weapon skill that you have 12 ranks in. Increase the natural result of all to-hit rolls made with that weapon by 1. 
+____
+
+
+#Equipment
+##Tag Definitions
+**Beam**: After a successful hit with this weapon, the user can continue to track their target with the recoil-less beam, allowing subsequent attacks with the weapon to automatically hit.  
+**Malfunction (*X*)**: On a natural roll of X or below, the weapon malfunctions in Y way.   
+**Pistol**: Use the Pistols skill to fire this weapon  
+**Reload *X***: Can be fired *X* times before the weapon must be reloaded.  
+**Full-Turn**: Firing this weapon requires both actions  
+**Sword**: Use the Swords skill to strike with this weapon.  
+
+
+##Guns:
+
+####K-Pistol   
+3d6 damage, pistol, reload 5 (magazine), malfunction 2 (jam)  
+
+
+####K-Rifle
+4d6 damage, rifle, reload 4 (magazine), malfunction 2 (jam)  
+
+
+####Minigun
+5d6 damage, 2 locations, heavy, full-turn, reload 10 (belt-fed), malfunction 2 (jam)  
+This weapon requires a major action to spin up the barrel before it can be used to fire. Because firing it requires a full turn, this means that it cannot be fired in the same turn that it is spun-up in.  
+A character spinning up this weapon has their movement speed reduced by half. 
+
+####Laser Pistol
+d4+d2 damage, ignores armor, no reload, malfunction 2 (needs repair)
+
+####Laser Rifle
+2d6 damage, ignores armor, no reload, malfunction 2 (needs repair)
+
+####Beam Pistol
+d6 damage, beam, pistol, reload 10, malfunction 1 (lens cartridge must be replaced)
+
+Every round you use your action to keep the beam on your target, add a d6 to the damage this weapon does.
+
+####Beam Rifle
+2d6 damage, beam, rifle, reload 6, malfunction 1 (lens cartridge must be replaced)
+
+Every round you use your action to keep the beam on your target, add a d6 to the damage this weapon does.
+
+####Beam Cannon
+3d6 damage, beam, heavy, reload 4, malfunction 1 (lens cartridge must be replaced)
+
+Every round you keep the beam on the target, add 2d6 damage to the beam.
+
+####Bettertech Plasma Rifle (S)
+d8 imploding damage, rifle, reload 4, malfunction 3 (Special)
+
+To roll an imploding die, first roll the die, record the result, and then keep rolling until you roll the result of the first die or higher, adding all of the rolls together.  
+
+Bettertech Plasma Rifles explode when they malfunction and deal damage to the user. Those labeled with an S were part of a recall that added a coolant system the first time they malfunction. Bettertech recommends users stop using the weapon once the coolant system is expended, as a further malfunction will result in a plasma explosion.
+
+
+####Bettertech Plasma Launcher
+d12 imploding damage, heavy, reload 2, malfunction 1 (plasma explosion)
+
+##Grenades
+####Fragmentation Grenade
+3d6 damage to d3 locations, thrown, malfunction 1 (dud), fuse time 1 round
+
+####Plasma Grenade
+d8 imploding damage to d2 locations, thrown, on an odd natural roll it starts a plasma fire, malfunction 1 (early detonation, and yes, that's an odd natural roll), fuse time 1 round
+
+##Melee
+
+####”Turkey Cutter”
+This weapon was widely used to tear through the carapace of the Zrobular. When you deal damage with it, the target also loses 10 armor to that location.   
+d10 damage, sword, melee, malfunction 1 (needs repair)
+
+
+
+####Ren Rashi
+d12 damage, ignores armor on a natural even hit, malfunction 0 (destroyed)  
+
+
+
+##Armor
+
+####Light Combat Armor 
+Damage Reduction 7  
+
+
+####Medium Combat Armor
+Damage Reduction 14
+
+
+####Heavy Combat Armor
+Damage Reduction 21
+
+
+
+
+####Light Organic Armor
+Ablative Armor 15 per location  
+Grows back 5 points per day. 
+
+####Reinforced Armor
++3 Damage Reduction, -2 to Cover and Evasion checks. 
+
+####Basic DFG
+Rating 15, 1 round recharge
+
+
+
+####Armored Trench Coat 
+4 armor to all locations except head. Looks like normal day-clothes.
+
+
+
+####Essex Angel Barrier
+Shield, rating 15. A player can use a major action to replace a battery in the shield, restoring the shield to rating 15.
+
+##General Equipment
+
+####Dermal Regeneration Spray
+Restores d6 pain to one location. Stops bleeding.
+
+####Thermoptic Camo Suit
+Expensive, stretchy suit fits over armor. A battery in it will power it for 2d6 minutes of an active camo ability, which grants advantage on stealth checks, or it can be powered by power armor. The suit will fail if the wearer emits a large amount of heat or light.
+
+####Multimode Goggles/Contact Lenses/Camera
+These items help users see things that might otherwise be obscured by smoke, darkness, or thermoptic camo. A user gains advantage on Awareness checks to spot things hidden by these items while they use them. These items come in a few different forms: Goggles and contacts can be worn. These feature a sort of heads-up-display that trace interesting outlines for the user to see. A second form of these plugs into a user's Datajack. 
+____
+
+
+#Combat
+##Actions
+Characters have two actions per round: a major action and a minor action. Players can only make one major action per round. They can, however, trade their major action for a minor action to make two minor actions in one turn. 
+
+[modify this section later with bonus action stuff]
+
+Taking a major action ends the character's turn, regardless of whether they have an unused minor action. 
+
+###Major Actions
+
+
+**Attack**: Characters can use an action to fire or otherwise use a weapon. Some weapons may also require the use of a minor action to fire. 
+
+
+If you’re using a melee weapon, you can also move up to your movement speed before this attack.
+
+
+**Dodge**: Until the start of your next turn, you gain advantage on Reflex tests to avoid being hit.
+
+
+**Ready an action**: You do not have to use your major action during a turn. If you do not, you can specify an action that will occur if an event occurs. For instance, you could say, “I’ll fire my weapon at the Veximantis if it comes out the door.”
+
+
+###Minor Actions
+**Move**: Characters can use an action to move up to your movement speed. Base movement speed is thirty feet (or six squares). Diagonal movement does not cost extra. 
+
+
+**Interact**: Characters during combat may still interact with things around them. Roll a skill check as normal. A skill check may take one or more actions to complete.
+
+
+
+
+##Death and Injury 
+Track pain per location. 
+
+
+An unharmed character gains a +2 bonus on to hit rolls.
+
+
+###Light Trauma
+When a character receives damage to a location that reduces the location’s pain to half or lower, that limb receives Light Trauma. This represents injuries that are debilitating, but not life-threatening.
+
+
+Head: character can make one less action per turn  
+Torso: character can make one less action per turn  
+Leg(s): for each leg that has received Light Trauma, a character’s movement speed is reduced by one half.  
+Arm(s): an arm with Light Trauma cannot be used for weapons or equipment. The player automatically fails any roll that requires the use of that limb.  
+
+
+###Heavy Trauma
+When a location is reduced to 0 or below, that limb receives Heavy Trauma. This represents injuries that are life-threatening or outright kill a character. 
+
+
+Head: The character is dead.  
+Torso: The character is dead.  
+Leg: The leg either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
+Arm: the arm either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
+
+
+If a character’s Endurance would be lowered below 0, they instead die. 
+
+
+~
+
+

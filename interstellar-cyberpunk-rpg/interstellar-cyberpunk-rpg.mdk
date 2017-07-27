@@ -443,8 +443,3 @@ Leg: The leg either is or must be amputated. In addition, the character immediat
 Arm: the arm either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
 
 If a character’s Endurance would be lowered below 0, they instead die. 
-
-
-~
-
-

@@ -27,10 +27,10 @@ Choose one of the arrays below. Assign each score to one of the attributes above
 ##Step Two: Determine Pain 
 Once you have determined your Endurance, you can find your Pain for each location. Record these totals on your character sheet:   
 
-* Head:  1 + Endurance
-* Torso: 9 + Endurance
-* Arms:  3 + Endurance
-* Legs:  5 + Endurance  
+* Head:  4 + Endurance
+* Torso: 13 + Endurance
+* Arms:  6 + Endurance
+* Legs:  8 + Endurance  
 
 See the section titled “[Death and Injury][#sec-death-and-injury]” below for an explanation of what happens when you take damage. 
 
@@ -41,21 +41,30 @@ Choose a Face from the section titled “[Faces][#sec-faces]” below. Record al
 Choose an Occupation from the section titled “[Occupations][#sec-occupations]” below. Record all skills listed.
 
 ##Step Five: Determine Skill Ranks 
-Select five skills from your class’s list. They start with 3 ranks. Every other skill begins play with 1 rank. 
+Select five skills from your class’s list. They start with three ranks. Every other skill begins play with one rank. 
 
 ##Step Six: Choose Equipment
-For now, take a weapon appropriate for your occupation from the section "[Equipment][#sec-equipment]," below, your choice of Light Combat Armor (Damage Reduction 7), Light Organic Armor (Ablative armor 3 head and arms, 5 legs, 9 torso) or a basic DFG (15 damage before it pops, takes 1 round to recharge), Dermal Regen Spray (stops bleeding, recovers d6 pain), a ten-foot telescoping Versi-Pole, and fifty feet of hempen rope. 
+For this play test, take the following:
+
+* Take per weapon skill: one weapon, or two one-handed weapons
+* If you have shields, take a shield of your choice
+* If you have Datajack, take a drone of your choice
+* Take your choice of protection: a basic DFG, Light Combat Armor, or Light Organic Armor
+* Take two grenades of an identical choice
+* Take a fifty feet length of hempen rope, a telescoping ten foot pole, and a cell phone
+* Take any one additional item in the book
+* Ask your GM about an idea for an item not in the book.
 ____
 #Faces 
 ##Bahndi
-**Precognition**: At the beginning of a session, roll a d12. If the result is 7 or greater, the Bahndi receives a session re-roll that may be spent at any time.
+**Precognition**: At the beginning of a session, roll a d12. If the result is seven or greater, the Bahndi receives a session re-roll that may be spent at any time.
 
-**Psychosomatic Reaction**: If touched for a full turn, even through gloves, a Bahndi must make an Endurance check, DC 9. If failed, the Bahndi will experience some traumatic event happening in the past or future to the person they are in contact with. For the duration of this (about 5 minutes), they go unconscious. 
+**Psychosomatic Reaction**: If touched for a full turn, even through gloves, a Bahndi must make an Endurance check, DC 9. If failed, the Bahndi will experience some traumatic event happening in the past or future to the person they are in contact with. For the duration of this (five minutes), they go unconscious. 
 
 ##Cy’ar
-**Psychic Aura**: Cy’ar are protected by an invisible psychic barrier that will block 10 points of damage before it pops, taking a day to re-materialise. It also protects them from some psychic attacks.
+**Psychic Aura**: Cy’ar are protected by an invisible psychic barrier that will block ten points of damage before it pops, taking a day to re-materialize. It also protects them from some psychic attacks.
 
-**Levitation**: Cy’ar may levitate a few inches off the ground at will, and gain +10 movement speed when doing so.
+**Levitation**: Cy’ar may levitate a few inches off the ground at will, and gain ten feet per round movement speed when doing so.
 
 ##Dinneh
 **Shapeshifting**: As a physical manifestation of light, a Dinneh can change a number of features at will. They can assume the shape of another race, change their physical features to disguise themselves as specific people. They cannot disguise themselves as beings larger than a human, however. Disguises as Modan or Kha'nari are likely to be of children of those races, and Dinneh cannot pass as Zrobular at all. 
@@ -64,14 +73,14 @@ ____
 **Body of Art**: A Gnosh’s body is adorned with all sorts of bright and moving tattoos, all of which have the potential to distract. In addition to always having several conversation pieces (+2 to social rolls that can convincingly make use of them), a Gnosh receives a +2 to Reflex tests to avoid being hit, but has disadvantage on Stealth checks unless the Gnosh is covered from head to toe. 
 
 ##Hogri
-**Phasing**: When a Hogri is attacked, they have a 4 in 12 chance of phasing into a latent energy form, making them invulnerable to physical attacks. However, while in this form, they are extra vulnerable to psychic attacks and attacks using energy weapons such as beam or laser weaponry, taking double damage. This state lasts until the Hogri's next turn or the end of the current combat round, which ever happens last. A Hogri may suppress this ability at-will. 
+**Phasing**: When a Hogri is attacked, they have a four in twelve chance of phasing into a latent energy form, making them invulnerable to physical attacks. However, while in this form, they are extra vulnerable to psychic attacks and attacks using energy weapons such as beam or laser weaponry, taking double damage. This state lasts until the Hogri's next turn or the end of the current combat round, which ever happens last. A Hogri may suppress this ability at-will. 
 
 ##Human        
 **Will to Live**:  After receiving heavy trauma, instead of immediately going into shock or dying, a human can continue to take actions. They still bleed out one endurance per round unless helped. At the end of that turn, the human must make a DC 9 Allure check. On a failure, the character goes into shock or dies as normal. On a success, the human can act the next round. This can continue until they get medical help that stops the bleeding, they fail and go into shock, or they bleed out and die (when their Endurance hits -1). Note, that if heavy trauma is received to the head or torso, no amount of medical help will prevent the human from dying. 
 
 **Origin**: In addition to Will to Live, a Human chooses a place of origin. They gain a trait from that origin. 
 
-###Star Republic 
+###Syndicate Space 
 **Jacked in and Good to Go**: At character creation, you may replace one of your skills with the skill Datajack. 
 
 ###Confederation of Man
@@ -89,10 +98,10 @@ ____
 **Thick Hide**: Modan have an armor Damage Reduction rating equal to their Endurance score, in addition to whatever armor they may be wearing.
 
 ##Oda
-**Blinking**: An Oda can jump short distances through space (maximum 100 feet) or time (one round). To blink, an Oda must make an Endurance test DC 9. If the total is underneath 9, the Oda still makes the jump, however, they receive pain equal to the difference between the roll and the target number to all locations. If the Oda rolls a natural one on this roll, roll again. If the natural result is below 7, the Oda vanishes into the void, never to be seen again. 
+**Blinking**: An Oda can jump short distances through space (maximum 100 feet) or time (one round). To blink, an Oda must make an Endurance test DC 9. If the total is under nine, the Oda still makes the jump, however, they receive pain equal to the difference between the roll and the target number to all locations. If the Oda rolls a natural one on this roll, roll again. If the natural result is below seven, the Oda vanishes into the void, never to be seen again. 
 
 ##Ren
-**Whiskers**: Twice per combat, you may subtract 1 from the natural result of any die roll.  
+**Whiskers**: Twice per combat, you may subtract one from the natural result of any die roll.  
 
 **Traditional Weapons**: At character creation, you may replace any weapon skill with the skill "Swords."
 ____
@@ -145,6 +154,19 @@ Operate Communications Equipment
 Pistol  
 Streetwise  
 Bargaining  
+
+##Droider
+Droid Engineering/Repair  
+Computer Operated Weapons  
+Computer Hardware/Engineering  
+Hacking  
+General Engineering/Repair  
+Pistols  
+Jury Rig  
+Salvaging  
+Stealth  
+Bargaining  
+
 
 ##Medic
 Administer Medicine  
@@ -222,6 +244,8 @@ Jury Rig
 Alertness  
 Bypass Locks  
 Concealment or Gambling
+Deception
+Detect Deception
 Larceny   
 Deter  
 Provoke  
@@ -239,9 +263,9 @@ To increase a skill, spend CAP equal to next rank
 To increase an Attribute, spend CAP equal to next rating x 10
 
 ##Gaining Additional Skills
-To purchase a skill, spend 5 CAP.
+To purchase a skill, spend five CAP.
 
-Alternatively, a character that rolls a natural 12 on an untrained skill check may forgo a critical bonus and instead receive the skill for free. 
+Alternatively, a character that rolls a natural twelve on an untrained skill check may forgo a critical bonus and instead receive the skill for free. 
 
 ##Assets
 ###Damn Tough
@@ -294,70 +318,103 @@ ____
 #Equipment
 ##Tag Definitions
 **Beam**: After a successful hit with this weapon, the user can continue to track their target with the recoil-less beam, allowing subsequent attacks with the weapon to automatically hit.  
-**Malfunction (*X*)**: On a natural roll of X or below, the weapon malfunctions in Y way.   
-**Pistol**: Use the Pistols skill to fire this weapon  
+**Misfire (*X*)**: On a natural roll of X or below, the weapon malfunctions in Y way.   
+**Pistol**: Use the Pistols skill to fire this weapon. These weapons are one-handed.  
 **Reload *X***: Can be fired *X* times before the weapon must be reloaded.  
 **Full-Turn**: Firing this weapon requires both actions  
 **Sword**: Use the Swords skill to strike with this weapon.  
 
 ##Guns:
 ####K-Pistol   
-3d6 damage, pistol, reload 5 (magazine), malfunction 2 (jam)  
+3d6 damage, pistol, reload 5 (magazine), misfire 0 (jam)  
 
 ####K-Rifle
-4d6 damage, rifle, reload 4 (magazine), malfunction 2 (jam)  
+4d6 damage, rifle, reload 4 (magazine), misfire 0 (jam)  
 
 ####Minigun
-5d6 damage, 2 locations, heavy, full-turn, reload 10 (belt-fed), malfunction 2 (jam)  
+5d6 damage, 2 locations, heavy, full-turn, reload 10 (belt-fed), malfunction 0 (jam)  
 This weapon requires a major action to spin up the barrel before it can be used to fire. Because firing it requires a full turn, this means that it cannot be fired in the same turn that it is spun-up in.  
 A character spinning up this weapon has their movement speed reduced by half. 
 
 ####Laser Pistol
-d4+d2 damage, ignores armor, no reload, malfunction 2 (needs repair)
+d4+d2 damage, ignores armor, no reload, misfire 3 (reload optics cartridge)
+
+This weapon deals its damage to everything in a thirty foot line. 
 
 ####Laser Rifle
-2d6 damage, ignores armor, no reload, malfunction 2 (needs repair)
+d8+d2 damage, ignores armor, no reload, misfire 3 (reload optics cartridge)
+
+This weapon deals its damage to everything in a thirty foot line. 
 
 ####Beam Pistol
-d6 damage, beam, pistol, reload 10, malfunction 1 (lens cartridge must be replaced)
-
-Every round you use your action to keep the beam on your target, add a d6 to the damage this weapon does.
+3d6 damage, beam, pistol, reload 10, misfire 1 (overheats, five minutes to cool)
 
 ####Beam Rifle
-2d6 damage, beam, rifle, reload 6, malfunction 1 (lens cartridge must be replaced)
-
-Every round you use your action to keep the beam on your target, add a d6 to the damage this weapon does.
+4d6 damage, beam, rifle, reload 6, misfire 1 (overheats, five minutes to cool)
 
 ####Beam Cannon
-3d6 damage, beam, heavy, reload 4, malfunction 1 (lens cartridge must be replaced)
-
-Every round you keep the beam on the target, add 2d6 damage to the beam.
+5d6 damage, beam, heavy, reload 4, misfire 1 (overheats, ten minutes to cool)
 
 ####Bettertech Plasma Rifle (S)
-d8 imploding damage, rifle, reload 4, malfunction 3 (Special)
+d8 imploding damage, rifle, reload 4, misfire 3 (Special)
 
 To roll an imploding die, first roll the die, record the result, and then keep rolling until you roll the result of the first die or higher, adding all of the rolls together.  
 
 Bettertech Plasma Rifles explode when they malfunction and deal damage to the user. Those labeled with an S were part of a recall that added a coolant system the first time they malfunction. Bettertech recommends users stop using the weapon once the coolant system is expended, as a further malfunction will result in a plasma explosion.
 
 ####Bettertech Plasma Launcher
-d12 imploding damage, heavy, reload 2, malfunction 1 (plasma explosion)
+d12 imploding damage, heavy, reload 2, misfire 3 (plasma explosion)
+
+To roll an imploding die, first roll the die, record the result, and then keep rolling until you roll the result of the first die or higher, adding all of the rolls together.  
+
+####Flare Gun
+3d6 damage, pistol, reload 4 (chamber-fed), misfire 1 (ball sticks in barrel, must be cleaned out)
+4d6 damage, rifle, reload 4 (chamber-fed), misfire 1 (ball sticks in barrel, must be cleaned out)
+
+This weapon fires an adhesive ball of chemicals that produce a lot of heat and light after striking a target. The ball casts a 60' sphere around it in bright light, and 300' feet in dim lighting. If it strikes a creature, the creature is blinded (DC 8 Endurance save ends) and the opponent cannot hide from creatures with sight. The creature takes one damage to the location hit at the start of each of its turns. A flare can be removed as a major action. 
+
+If a creature using Thermoptic Camo is hit with a flare, the Thermoptic Camo fails.
+
+####Hookshot
+3d6 damage, pistol, reload 1 (chain retract), misfire 1 (chain is kinked)
+
+Choose one: pull an object or creature of the same size or smaller to you, or, pull yourself to an object or creature of the same size or larger.
+
+####Nanite Pistol/Rifle
+d6 damage, pistol, beam, reload 10, misfire 1 (jam)  
+2d6 damage, rifle, beam, reload 10, misfire 1 (jam)
+
+If a target is wounded, this weapon bypasses armor. At the user's choice, the operator can fire nanites that provide healing for the same amount. A willing target that is not holding still can forgo rolling a Cover check, instead rolling a flat d12. 
 
 ##Grenades
 ####Fragmentation Grenade
-3d6 damage to d3 locations, thrown, malfunction 1 (dud), fuse time 1 round
+2d6 damage to d3 locations, thrown, misfire 0 (pin not pulled) 15'x 15' area
 
 ####Plasma Grenade
-d8 imploding damage to d2 locations, thrown, on an odd natural roll it starts a plasma fire, malfunction 1 (early detonation, and yes, that's an odd natural roll), fuse time 1 round
+d8 imploding damage to d2 locations, thrown, on an odd natural roll it starts a plasma fire, misfires on 1 and 3 only (detonates in hand, and yes, that's an odd natural roll). 15'x 15' area
+
+####Noxious Grenade
+Creates a 15x15x15’ space that billows a poisonous mist for five minutes. Inhalation or absorption via skin (especially through any open wound) infects a creature with it. That creature takes 2 damage to the torso on first contact and 2 damage to the torso at the start of their turns. At the end of a turn, that creature can make a DC 8 Endurance test to overcome the poison. 
+
+####Flashbang
+Blinds and deafens creatures within a 40' x 40' area. DC 8 Endurance save ends. 
 
 ##Melee
 
 ####”Turkey Cutter”
 This weapon was widely used to tear through the carapace of the Zrobular. When you deal damage with it, the target also loses 10 armor to that location.   
-d10 damage, sword, melee, malfunction 1 (needs repair)
+d8+M damage, sword, 1 handed melee, misfire 1 (jam)
 
 ####Ren Rashi
-d12 damage, ignores armor on a natural even hit, malfunction 0 (destroyed)  
+d12+M damage, 2 handed melee, ignores armor on a natural even hit, misfire 0 (destroyed)  
+
+####Sledgehammer
+2d8+M damage, 2 handed melee, misfire 1 (user falls prone)
+
+When you strike an enemy with this weapon, you may choose to knock the target prone, or push them 5 x Muscle feet in a direction of your choice.
+
+####K-Glove
+3d6 damage, unarmed, misfire 0 (take d6 damage to an arm)
 
 ##Armor
 ####Light Combat Armor 
@@ -382,18 +439,49 @@ Rating 15, 1 round recharge
 ####Armored Trench Coat 
 4 armor to all locations except head. Looks like normal day-clothes.
 
-####Essex Angel Barrier
-Shield, rating 15. A player can use a major action to replace a battery in the shield, restoring the shield to rating 15.
+####Ballistic Barrier
+Shield, rating 15
+
+####Essex "Angel" Barrier
+Shield, rating 30
+
+This transparent energy barrier deploys to a 7' tall, 15' wide shield, capable of protecting others behind the shield. While deployed, the user's movement speed is halved. 
 
 ##General Equipment
-####Dermal Regeneration Spray
-Restores d6 pain to one location. Stops bleeding.
+####Dermal Regenerative Spray
+Restores d6 pain to one location. Stops bleeding. WARNING: DO NOT INHALE
+
+####Plasma Fire Extinguisher
+Exactly what it says on the tin. Covers a 30' x 30' area. 
 
 ####Thermoptic Camo Suit
 Expensive, stretchy suit that fits over armor. A battery in it will power it for 2d6 minutes of an active camo ability, which grants advantage on stealth checks, or it can be powered by power armor. The suit will fail if the wearer emits a large amount of heat or light.
 
 ####Multimode Goggles/Contact Lenses/Camera
 These items help users see things that might otherwise be obscured by smoke, darkness, or thermoptic camo. A user gains advantage on Awareness checks to spot things hidden by these items while they use them. These items come in a few different forms: Goggles and contacts can be worn. These feature a sort of heads-up-display that trace interesting outlines for the user to see. A second form of these plugs into a user's Datajack. 
+
+##Drones
+
+A character uses Drones by connecting a wireless transmitter and reciever into their Datajack. A character may have as many drones connected as they have ranks in Datajack. 
+
+Ordering a drone is a bonus action, unless stated otherwise. A drone can move and perform its function during that bonus action. 
+
+A drone has 10 hit points, and 2 points of damage reduction armor. When a drone is attacked, a Datajack test is made in place of a Cover or Evasion test.
+
+####Utility Drone
+Capable of moving 300 pounds of materials at a speed of twenty feet per round. A creature can resist this with a DC 10 Muscle save.
+
+####Attack Drone
+Equip this drone with a weapon. As an attack action, you can attack using the drone and its weapon with a Computer Operated Weapons check. 
+
+####Shield Drone
+Deploys a rating 10 DFG to protect a target. DFG is refreshed every other turn. 
+
+####Medical Drone
+Sprays a target location with Dermal Regeneration Spray. 
+
+####Projector Drone
+Projects images and can emit sound. This drone is much smaller than other drones, making it much easier to hide (+3 Stealth rolls).
 ____
 
 
@@ -414,6 +502,7 @@ If you’re using a melee weapon, you can also move up to your movement speed be
 **Reload a weapon**: Reloading a weapon is a major action. 
 
 **Draw a weapon**: Drawing a weapon is a major action. You may also stow a weapon as part of this action. 
+
 ###Minor Actions
 **Move**: Characters can use an action to move up to your movement speed. Base movement speed is thirty feet (or six squares). Diagonal movement does not cost extra. 
 
@@ -436,9 +525,9 @@ When a character receives damage to a location that reduces the location’s pai
 ###Heavy Trauma
 When a location is reduced to 0 or below, that limb receives Heavy Trauma. This represents injuries that are life-threatening or outright kill a character. 
 
-Head: The character is dead.  
-Torso: The character is dead.  
-Leg: The leg either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
-Arm: the arm either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
+* Head: The character is dead.  
+* Torso: The character is dead.  
+* Leg: The leg either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
+* Arm: the arm either is or must be amputated. In addition, the character immediately goes into shock, and bleeds 1 Endurance per round.  
 
 If a character’s Endurance would be lowered below 0, they instead die. 

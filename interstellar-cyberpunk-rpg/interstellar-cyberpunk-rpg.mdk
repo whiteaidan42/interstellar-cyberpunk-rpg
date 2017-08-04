@@ -44,7 +44,7 @@ Choose an Occupation from the section titled “[Occupations][#sec-occupations]�
 Select five skills from your class’s list. They start with three ranks. Every other skill begins play with one rank. 
 
 ##Step Six: Choose Equipment
-For this play test, take the following from the [Equipment][#sec-equipment] section:
+For this play test, take the following from the "[Equipment][#sec-equipment]" section:
 
 * Take per weapon skill: one weapon, or two one-handed weapons
 * If you have shields, take a shield of your choice
@@ -155,19 +155,6 @@ Pistol
 Streetwise  
 Bargaining  
 
-##Droider
-Droid Engineering/Repair  
-Computer Operated Weapons  
-Computer Hardware/Engineering  
-Hacking  
-General Engineering/Repair  
-Pistols  
-Jury Rig  
-Salvaging  
-Stealth  
-Bargaining  
-
-
 ##Medic
 Administer Medicine  
 Provoke  
@@ -230,7 +217,7 @@ Starship Piloting
 
 ##Droider
 Drone/Droid Engineering/Repair  
-Computer Operated Weapons  
+Stealth  
 Computer Hardware Engineering/Repair  
 Computers  
 Datajack  
@@ -243,10 +230,9 @@ Jury Rig
 ##Grifter
 Alertness  
 Bypass Locks  
-Concealment or Gambling
-Deception
-Detect Deception
-Larceny   
+Concealment *or* Gambling  
+Deception  
+Detect Deception _or* Larceny   
 Deter  
 Provoke  
 Pistols  

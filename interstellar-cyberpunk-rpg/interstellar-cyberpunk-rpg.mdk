@@ -232,7 +232,7 @@ Alertness
 Bypass Locks  
 Concealment *or* Gambling  
 Deception  
-Detect Deception _or* Larceny   
+Detect Deception *or* Larceny   
 Deter  
 Provoke  
 Pistols  
@@ -297,7 +297,7 @@ Anytime you fail a seduction or deception check, you may re-roll it. You must ta
 ###Weapon Mastery
 *7 CAP, Requires 3 ranks in a weapon skill*
 
-Choose a weapon skill you have 3 ranks in. Your misfire rating while using this skill is lowered by one. If your misfire chance would go below zero, instead increase your crit range by that amount. 
+Choose a weapon skill you have 3 ranks in. Your misfire rating while using this skill is lowered by one. If your misfire chance would go below zero, instead increase your critical range by that amount. 
 
 You may take this asset again when you reach 6, 9, or 12 ranks in a weapon skill. The misfire reduction stacks. 
 ____
@@ -359,7 +359,7 @@ To roll an imploding die, first roll the die, record the result, and then keep r
 
 This weapon fires an adhesive ball of chemicals that produce a lot of heat and light after striking a target. The ball casts a 60' sphere around it in bright light, and 300' feet in dim lighting. If it strikes a creature, the creature is blinded (DC 8 Endurance save ends) and the opponent cannot hide from creatures with sight. The creature takes one damage to the location hit at the start of each of its turns. A flare can be removed as a major action. 
 
-If a creature using Thermoptic Camo is hit with a flare, the Thermoptic Camo fails.
+If a creature using Thermoptic Camouflage is hit with a flare, the Thermoptic Camouflage fails.
 
 ####Hookshot
 3d6 damage, pistol, reload 1 (chain retract), misfire 1 (chain is kinked)
@@ -441,10 +441,10 @@ Restores d6 pain to one location. Stops bleeding. WARNING: DO NOT INHALE
 Exactly what it says on the tin. Covers a 30' x 30' area. 
 
 ####Thermoptic Camo Suit
-Expensive, stretchy suit that fits over armor. A battery in it will power it for 2d6 minutes of an active camo ability, which grants advantage on stealth checks, or it can be powered by power armor. The suit will fail if the wearer emits a large amount of heat or light.
+Expensive, stretchy suit that fits over armor. A battery in it will power it for 2d6 minutes of an active camouflage ability, which grants advantage on stealth checks, or it can be powered by power armor. The suit will fail if the wearer emits a large amount of heat or light.
 
 ####Multimode Goggles/Contact Lenses/Camera
-These items help users see things that might otherwise be obscured by smoke, darkness, or thermoptic camo. A user gains advantage on Awareness checks to spot things hidden by these items while they use them. These items come in a few different forms: Goggles and contacts can be worn. These feature a sort of heads-up-display that trace interesting outlines for the user to see. A second form of these plugs into a user's Datajack. 
+These items help users see things that might otherwise be obscured by smoke, darkness, or thermoptic camoflauge. A user gains advantage on Awareness checks to spot things hidden by these items while they use them. These items come in a few different forms: Goggles and contacts can be worn. These feature a sort of heads-up-display that trace interesting outlines for the user to see. A second form of these plugs into a user's Datajack. 
 
 ##Drones
 

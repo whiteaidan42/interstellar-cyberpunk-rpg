@@ -303,27 +303,36 @@ You may take this asset again when you reach 6, 9, or 12 ranks in a weapon skill
 ____
 #Equipment
 ##Tag Definitions
-**Beam**: After a successful hit with this weapon, the user can continue to track their target with the recoil-less beam, allowing subsequent attacks with the weapon to automatically hit.  
+**Beam**: After a successful hit with this weapon, the user can continue to track their target with the recoil-less beam, granting advantage on subsequent targets.  
+
+**Heavy**: Use the Heavy Weapons skill to fire this weapon. These weapons are two handed.  
+
+**(*X*) Locations**: When you use this weapon and hit a target, they take damage in X locations. Roll once for damage, and apply it to all affected locations in turn. If one location pops a shield, following locations can take damage.   
+
 **Misfire (*X*)**: On a natural roll of X or below, the weapon malfunctions in Y way.   
+
 **Pistol**: Use the Pistols skill to fire this weapon. These weapons are one-handed.  
+
+**Rifle**: Use the Rifles skill to fire this weapon. These weapons are two-handed.  
+
 **Reload *X***: Can be fired *X* times before the weapon must be reloaded.  
-**Full-Turn**: Firing this weapon requires both actions  
+
+**Structural**: This weapon deals double damage against shields, armor, cover, DFGs, barriers, and the like. 
+
 **Sword**: Use the Swords skill to strike with this weapon.  
 
 ##Guns:
 ####K-Pistol   
-3d6 damage, pistol, reload 5 (magazine), misfire 0 (jam)  
+d6 damage, pistol, reload 5 (magazine), misfire 0 (jam)  
 
 ####K-Rifle
-4d6 damage, rifle, reload 4 (magazine), misfire 0 (jam)  
+d6 damage, 2 locations, rifle, reload 4 (magazine), misfire 0 (jam)  
 
-####Minigun
-5d6 damage, 2 locations, heavy, full-turn, reload 10 (belt-fed), malfunction 0 (jam)  
-This weapon requires a major action to spin up the barrel before it can be used to fire. Because firing it requires a full turn, this means that it cannot be fired in the same turn that it is spun-up in.  
-A character spinning up this weapon has their movement speed reduced by half. 
+###K-LMG
+d6 damage, 3 locations, structural, heavy, reload 5 (belt-fed), malfunction 0 (jam)  
 
 ####Laser Pistol
-d4+d2 damage, ignores armor, no reload, misfire 3 (reload optics cartridge)
+3 damage, pistol, ignores armor, no reload, misfire 3 (reload optics cartridge)
 
 This weapon deals its damage to everything in a thirty foot line. 
 
@@ -333,13 +342,13 @@ d8+d2 damage, ignores armor, no reload, misfire 3 (reload optics cartridge)
 This weapon deals its damage to everything in a thirty foot line. 
 
 ####Beam Pistol
-3d6 damage, beam, pistol, reload 10, misfire 1 (overheats, five minutes to cool)
+d6 damage, beam, pistol, reload 6, misfire 2 (overheats, five minutes to cool)
 
 ####Beam Rifle
-4d6 damage, beam, rifle, reload 6, misfire 1 (overheats, five minutes to cool)
+2d6 damage, beam, rifle, reload 6, misfire 2 (overheats, five minutes to cool)
 
 ####Beam Cannon
-5d6 damage, beam, heavy, reload 4, misfire 1 (overheats, ten minutes to cool)
+3d6 damage, beam, heavy, reload 4, misfire 2 (overheats, ten minutes to cool)
 
 ####Bettertech Plasma Rifle (S)
 d8 imploding damage, rifle, reload 4, misfire 3 (Special)
@@ -354,21 +363,21 @@ d12 imploding damage, heavy, reload 2, misfire 3 (plasma explosion)
 To roll an imploding die, first roll the die, record the result, and then keep rolling until you roll the result of the first die or higher, adding all of the rolls together.  
 
 ####Flare Gun
-3d6 damage, pistol, reload 4 (chamber-fed), misfire 1 (ball sticks in barrel, must be cleaned out)
-4d6 damage, rifle, reload 4 (chamber-fed), misfire 1 (ball sticks in barrel, must be cleaned out)
+d6 damage, pistol, reload 4 (chamber-fed), misfire 1 (ball sticks in barrel, must be cleaned out)
+2d6 damage, rifle, reload 4 (chamber-fed), misfire 1 (ball sticks in barrel, must be cleaned out)
 
 This weapon fires an adhesive ball of chemicals that produce a lot of heat and light after striking a target. The ball casts a 60' sphere around it in bright light, and 300' feet in dim lighting. If it strikes a creature, the creature is blinded (DC 8 Endurance save ends) and the opponent cannot hide from creatures with sight. The creature takes one damage to the location hit at the start of each of its turns. A flare can be removed as a major action. 
 
 If a creature using Thermoptic Camouflage is hit with a flare, the Thermoptic Camouflage fails.
 
 ####Hookshot
-3d6 damage, pistol, reload 1 (chain retract), misfire 1 (chain is kinked)
+d6 damage, pistol, reload 1 (chain retract), misfire 1 (chain is kinked)
 
 Choose one: pull an object or creature of the same size or smaller to you, or, pull yourself to an object or creature of the same size or larger.
 
 ####Nanite Pistol/Rifle
-d6 damage, pistol, beam, reload 10, misfire 1 (jam)  
-2d6 damage, rifle, beam, reload 10, misfire 1 (jam)
+d4 damage, pistol, beam, reload 10, misfire 1 (jam)  
+2d4 damage, rifle, beam, reload 10, misfire 1 (jam)
 
 If a target is wounded, this weapon bypasses armor. At the user's choice, the operator can fire nanites that provide healing for the same amount. A willing target that is not holding still can forgo rolling a Cover check, instead rolling a flat d12. 
 
@@ -380,56 +389,59 @@ If a target is wounded, this weapon bypasses armor. At the user's choice, the op
 d8 imploding damage to d2 locations, thrown, on an odd natural roll it starts a plasma fire, misfires on 1 and 3 only (detonates in hand, and yes, that's an odd natural roll). 15'x 15' area
 
 ####Noxious Grenade
-Creates a 15x15x15’ space that billows a poisonous mist for five minutes. Inhalation or absorption via skin (especially through any open wound) infects a creature with it. That creature takes 2 damage to the torso on first contact and 2 damage to the torso at the start of their turns. At the end of a turn, that creature can make a DC 8 Endurance test to overcome the poison. 
+Creates a 15x15x15’ space that billows a poisonous mist for five minutes. Inhalation or absorption via skin (especially through any open wound) infects a creature with it. That creature takes 2 damage to the torso on first contact and 2 damage to the torso at the start of their turns. At the end of a turn, that creature can make a DC 8 Endurance test to overcome the poison. Misfire 2 (wind/ventilation disperses the mist)
 
 ####Flashbang
 Blinds and deafens creatures within a 40' x 40' area. DC 8 Endurance save ends. 
 
 ##Melee
 
+###Serrated Blade
+d6+M damage, sword, 1 handed melee, misfire 0 (hit yourself, dummy)
+
 ####”Turkey Cutter”
 This weapon was widely used to tear through the carapace of the Zrobular. When you deal damage with it, the target also loses 10 armor to that location.   
-d8+M damage, sword, 1 handed melee, misfire 1 (jam)
+d8+M damage, sword, 1 handed melee, misfire 2 (jam)
 
 ####Ren Rashi
-d12+M damage, 2 handed melee, ignores armor on a natural even hit, misfire 0 (destroyed)  
+d6+M damage, 2 handed melee, ignores armor on a natural even hit, misfire 3 (destroyed)  
 
 ####Sledgehammer
-2d8+M damage, 2 handed melee, misfire 1 (user falls prone)
+2d8+M damage, 2 handed melee, misfire 1 (choose one: drop the weapon or fall prone)
 
 When you strike an enemy with this weapon, you may choose to knock the target prone, or push them 5 x Muscle feet in a direction of your choice.
 
 ####K-Glove
-3d6 damage, unarmed, misfire 0 (take d6 damage to an arm)
+d6 damage, unarmed, misfire 0 (take d6 damage to an arm)
 
 ##Armor
 ####Light Combat Armor 
-Damage Reduction 7  
+Damage Reduction 3  
 
 ####Medium Combat Armor
-Damage Reduction 14
+Damage Reduction 5
 
 ####Heavy Combat Armor
-Damage Reduction 21
+Damage Reduction 7
 
 ####Light Organic Armor
-Ablative Armor 15 per location  
-Grows back 5 points per day, unless all locations have been reduced to 0.
+Ablative Armor 4 per location  
+Grows back 5 points per day, unless all locations have been reduced to 0. Soaking it in nutrient-rich mud overnight will restore the armor completely. 
 
 ####Reinforced Armor
-+3 Damage Reduction, -2 to Cover and Evasion checks. 
++1 Damage Reduction, -2 to Cover and Evasion checks. 
 
 ####Basic DFG
-Rating 15, 1 round recharge
+Rating 6, 1 round recharge
 
 ####Armored Trench Coat 
-4 armor to all locations except head. Looks like normal day-clothes.
+2 armor to all locations except head. Looks like normal day-clothes.
 
 ####Ballistic Barrier
-Shield, rating 15
+Shield, rating 10
 
 ####Essex "Angel" Barrier
-Shield, rating 30
+Shield, rating 20
 
 This transparent energy barrier deploys to a 7' tall, 15' wide shield, capable of protecting others behind the shield. While deployed, the user's movement speed is halved. 
 
@@ -441,14 +453,14 @@ Restores d6 pain to one location. Stops bleeding. WARNING: DO NOT INHALE
 Exactly what it says on the tin. Covers a 30' x 30' area. 
 
 ####Thermoptic Camo Suit
-Expensive, stretchy suit that fits over armor. A battery in it will power it for 2d6 minutes of an active camouflage ability, which grants advantage on stealth checks, or it can be powered by power armor. The suit will fail if the wearer emits a large amount of heat or light.
+Expensive, stretchy suit that fits over armor. A battery in it will power it for five minutes of an active camouflage ability, which grants advantage on stealth checks, or it can be powered by power armor. The suit will fail if the wearer emits a large amount of heat or light.
 
 ####Multimode Goggles/Contact Lenses/Camera
-These items help users see things that might otherwise be obscured by smoke, darkness, or thermoptic camoflauge. A user gains advantage on Awareness checks to spot things hidden by these items while they use them. These items come in a few different forms: Goggles and contacts can be worn. These feature a sort of heads-up-display that trace interesting outlines for the user to see. A second form of these plugs into a user's Datajack. 
+These items help users see things that might otherwise be obscured by smoke, darkness, or thermoptic camouflage. A user gains advantage on Awareness checks to spot things hidden by these items while they use them. These items come in a few different forms: Goggles and contacts can be worn. These feature a sort of heads-up-display that trace interesting outlines for the user to see. A second form of these plugs into a user's Datajack. 
 
 ##Drones
 
-A character uses Drones by connecting a wireless transmitter and reciever into their Datajack. A character may have as many drones connected as they have ranks in Datajack. 
+A character uses Drones by connecting a wireless transmitter and receiver into their Datajack. A character may have as many drones connected as they have ranks in Datajack. 
 
 Ordering a drone is a bonus action, unless stated otherwise. A drone can move and perform its function during that bonus action. 
 

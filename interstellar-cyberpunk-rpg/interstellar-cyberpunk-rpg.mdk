@@ -20,17 +20,17 @@ KOMERA is a set of attributes that define innate abilities of a character. They 
 
 Choose one of the arrays below. Assign each score to one of the attributes above. 
 
-3 2 1 1 0 0  
-2 2 2 1 1 0  
+3 2 0 0 0 0  
+2 2 2 2 1 0  
 3 1 1 1 1 1  
 
 ##Step Two: Determine Pain 
 Once you have determined your Endurance, you can find your Pain for each location. Record these totals on your character sheet:   
 
-* Head:  4 + Endurance
-* Torso: 13 + Endurance
-* Arms:  6 + Endurance
-* Legs:  8 + Endurance  
+* Head:  1 + Endurance
+* Torso: 9 + Endurance
+* Arms:  3 + Endurance
+* Legs:  5 + Endurance  
 
 See the section titled “[Death and Injury][#sec-death-and-injury]” below for an explanation of what happens when you take damage. 
 
